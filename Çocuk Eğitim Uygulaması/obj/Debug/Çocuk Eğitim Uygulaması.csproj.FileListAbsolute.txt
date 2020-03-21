@@ -1,0 +1,13 @@
+C:\Users\Casper\Desktop\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\bin\Debug\Çocuk Eğitim Uygulaması.exe.config
+C:\Users\Casper\Desktop\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\bin\Debug\Çocuk Eğitim Uygulaması.exe
+C:\Users\Casper\Desktop\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\bin\Debug\Çocuk Eğitim Uygulaması.pdb
+C:\Users\Casper\Desktop\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.csprojAssemblyReference.cache
+C:\Users\Casper\Desktop\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.FrmAnaForm.resources
+C:\Users\Casper\Desktop\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.FrmResimler.resources
+C:\Users\Casper\Desktop\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.Properties.Resources.resources
+C:\Users\Casper\Desktop\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.exe
+C:\Users\Casper\Desktop\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.pdb
+C:\Users\Casper\Desktop\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.FrmEslestirKelime.resources
+C:\Users\Casper\Desktop\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.FrmAritmetik.resources
